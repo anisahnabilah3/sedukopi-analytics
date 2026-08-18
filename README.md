@@ -30,22 +30,22 @@ Source: [ngulikdata.com/datasets/sedukopi](https://ngulikdata.com/datasets/seduk
 ### 1. Which menu items sell the most units?
 Best-sellers are dominated by **fusion and dessert items** (Matcha Espresso Fusion, Cheese Cake Slice, Croissant Butter, Strawberry Smoothie) rather than classic coffee drinks — suggesting these items, not coffee itself, are the brand's main traffic driver.
 
-📄 [`01_top_selling_menu.sql`](queries/01_top_selling_menu.sql)
+📄 [`01_top_selling_menu.sql`](01_top_selling_menu.sql)
 
 ### 2. What time of day is busiest?
 Transactions follow a **dual-peak pattern**: a morning peak (~07:00-08:00) and an evening peak (~17:00-19:00), with midday and late-night hours roughly 4x quieter. This challenges the common assumption of a single lunchtime rush.
 
-📄 [`02_peak_hours.sql`](queries/02_peak_hours.sql)
+📄 [`02_peak_hours.sql`](02_peak_hours.sql)
 
 ### 3. Which outlets perform best / worst?
 Among 18 active outlets, revenue ranges from **Rp 25.5M (Senopati, top)** to **Rp 16.0M (Margonda, bottom)** — a ~60% gap. A validation query also confirms the 2 outlets marked `temporarily_closed` correctly show zero revenue, verifying data integrity.
 
-📄 [`03_outlet_performance.sql`](queries/03_outlet_performance.sql)
+📄 [`03_outlet_performance.sql`](03_outlet_performance.sql)
 
 ### 4. Which menu items are most profitable — not just most sold?
 The most profitable items are **completely different** from the best-sellers. Heavy food items (Club Sandwich, Croissant Almond, French Toast, Pancake Maple) drive the most profit, while trendy drinks/desserts drive volume but not necessarily margin.
 
-📄 [`04_most_profitable_menu.sql`](queries/04_most_profitable_menu.sql)
+📄 [`04_most_profitable_menu.sql`](04_most_profitable_menu.sql)
 
 ## 📊 Dashboard
 
