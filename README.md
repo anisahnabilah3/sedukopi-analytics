@@ -49,7 +49,7 @@ The most profitable items are **completely different** from the best-sellers. He
 
 ## 📊 Dashboard
 
-*(Add your Looker Studio public link here once published)*
+[*(Add your Looker Studio public link here once published)*](https://datastudio.google.com/reporting/55b6b0a3-7da2-4449-b11a-a455c27aa10f)
 
 ## 💡 Summary Recommendations
 
@@ -63,4 +63,4 @@ The most profitable items are **completely different** from the best-sellers. He
 This project was built end-to-end as a learning exercise: designing business questions, writing and debugging SQL (including JOINs, aggregations, and window-style analysis), and translating raw query output into business-relevant insights.
 
 ---
-*Author: [your name] — feel free to connect on [LinkedIn](#)*
+*Author: [Anisah Nabilah] — feel free to connect on [https://www.linkedin.com/in/anisah-nabilah/](#)*
