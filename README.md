@@ -49,7 +49,7 @@ The most profitable items are **completely different** from the best-sellers. He
 
 ## 📊 Dashboard
 
-[*(https://datastudio.google.com/reporting/55b6b0a3-7da2-4449-b11a-a455c27aa10f)*]
+(https://datastudio.google.com/reporting/55b6b0a3-7da2-4449-b11a-a455c27aa10f)
 
 ## 💡 Summary Recommendations
 
